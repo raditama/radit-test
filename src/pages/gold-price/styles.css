@@ -1,0 +1,17 @@
+.button-back:hover .text-back {
+    font-size: 12px !important;
+    cursor: pointer;
+}
+
+.button-back:hover .arrow-back {
+    font-size: 16px !important;
+    cursor: pointer;
+}
+
+.box-content:hover .img-content{
+    height: 80px !important;
+}
+
+.box-content:hover .text-content{
+    font-size: 16px !important;
+}
