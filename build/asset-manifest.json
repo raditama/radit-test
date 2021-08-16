@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/radit-test/static/css/main.96eb85be.chunk.css",
+    "main.js": "/radit-test/static/js/main.782565fa.chunk.js",
+    "main.js.map": "/radit-test/static/js/main.782565fa.chunk.js.map",
+    "runtime-main.js": "/radit-test/static/js/runtime-main.b7b9f6b5.js",
+    "runtime-main.js.map": "/radit-test/static/js/runtime-main.b7b9f6b5.js.map",
+    "static/js/2.f51e0569.chunk.js": "/radit-test/static/js/2.f51e0569.chunk.js",
+    "static/js/2.f51e0569.chunk.js.map": "/radit-test/static/js/2.f51e0569.chunk.js.map",
+    "static/js/3.bc2c7a49.chunk.js": "/radit-test/static/js/3.bc2c7a49.chunk.js",
+    "static/js/3.bc2c7a49.chunk.js.map": "/radit-test/static/js/3.bc2c7a49.chunk.js.map",
+    "index.html": "/radit-test/index.html",
+    "static/css/main.96eb85be.chunk.css.map": "/radit-test/static/css/main.96eb85be.chunk.css.map",
+    "static/js/2.f51e0569.chunk.js.LICENSE.txt": "/radit-test/static/js/2.f51e0569.chunk.js.LICENSE.txt",
+    "static/media/gold-img.747f15e5.png": "/radit-test/static/media/gold-img.747f15e5.png",
+    "static/media/silver-img.4238effe.png": "/radit-test/static/media/silver-img.4238effe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7b9f6b5.js",
+    "static/js/2.f51e0569.chunk.js",
+    "static/css/main.96eb85be.chunk.css",
+    "static/js/main.782565fa.chunk.js"
+  ]
+}
