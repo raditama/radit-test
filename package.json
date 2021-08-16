@@ -1,7 +1,7 @@
 {
   "name": "exercise",
   "version": "0.1.0",
-  "homepage": "https://radittest-fe.000webhostapp.com/",
+  "homepage": "http://raditama.github.io/radit-test",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
@@ -24,6 +24,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d deploy",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -45,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
